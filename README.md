@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikats5
 - 👀 I’m interested in Frontend Development(Web/Mobile)
 - 🌱 I’m currently learning algorithms
-- 💞️ I’m looking to collaborate on fantastic development
+- 💞️ I’m looking to collaborate on fantastic UI creation
 - 📫 You can reach me at saikats_5@yahoo.co.in
 
 <!---
